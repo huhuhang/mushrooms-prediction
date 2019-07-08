@@ -1,0 +1,7 @@
+{
+  "name": "Mushrooms",
+  "description": "Mushrooms Prediction",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/mushrooms-prediction",
+  "keywords": ["python", "flask" ]
+}
